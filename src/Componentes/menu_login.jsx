@@ -44,12 +44,6 @@ function Menu_login() {
                       </Link>
                     </li>
                     <li class="nav-item">
-                          <Link class="nav-link active" to="/contacto">
-
-                        Contacto
-                      </Link>
-                    </li>
-                    <li class="nav-item">
                           <Link class="nav-link active" to="/chatbox">
 
                         Chatbox

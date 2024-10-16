@@ -42,6 +42,13 @@ function Portada() {
             </button>
           </div>
         </Link>
+        <h3 className="text-center">Contacto</h3>
+        <p className="text-center"> 
+          <strong>Gmail:</strong> Drlobster@gmail.com<br/>
+          <strong>Teléfono:</strong> +54 9 11 555-55-55<br/>
+          <strong>Instagram:</strong> @DrLobster<br/>
+          <strong>Facebook:</strong> DrLobster
+        </p> 
         
       </div>
     </div>

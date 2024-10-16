@@ -10,6 +10,7 @@ import Images from "./Páginas/Imagenes"
 import Video from "./Páginas/Videos"
 import Art from "./Páginas/Articulos"
 import Ayud from "./Páginas/Ayuda"
+import Comunida from "./Páginas/Comunida"
 
 export default function App() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
         <Route exact path="/videos" element={<Video/>}/>
         <Route exact path="/articulos" element={<Art/>}/>
         <Route exact path="/ayuda_externa" element={<Ayud/>}/>
+        <Route exact path="/comunidad" element={<Comunida/>}/>
         
       </Routes>
     </Router>
